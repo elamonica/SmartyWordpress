@@ -1,0 +1,1 @@
+/Applications/BitNamiStackWordPress.app/Contents/Resources/app/ctlscript.sh

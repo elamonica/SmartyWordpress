@@ -1,0 +1,25 @@
+[Fri Jan 11 12:58:13.351451 2013] [lbmethod_heartbeat:notice] [pid 91008] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 11 12:58:13.390776 2013] [mpm_prefork:notice] [pid 91008] AH00163: Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.9 configured -- resuming normal operations
+[Fri Jan 11 12:58:13.390843 2013] [core:notice] [pid 91008] AH00094: Command line: '/Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/bin/httpd -f /Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/conf/httpd.conf'
+[Fri Jan 11 12:58:22.142757 2013] [mpm_prefork:notice] [pid 91008] AH00169: caught SIGTERM, shutting down
+[Fri Jan 11 12:58:28.508328 2013] [lbmethod_heartbeat:notice] [pid 91036] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 11 12:58:28.532735 2013] [mpm_prefork:notice] [pid 91036] AH00163: Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.9 configured -- resuming normal operations
+[Fri Jan 11 12:58:28.532812 2013] [core:notice] [pid 91036] AH00094: Command line: '/Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/bin/httpd -f /Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/conf/httpd.conf'
+[Fri Jan 11 12:58:40.328843 2013] [mpm_prefork:notice] [pid 91036] AH00169: caught SIGTERM, shutting down
+[Fri Jan 11 12:58:46.705194 2013] [lbmethod_heartbeat:notice] [pid 91072] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 11 12:58:46.738398 2013] [mpm_prefork:notice] [pid 91072] AH00163: Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.9 configured -- resuming normal operations
+[Fri Jan 11 12:58:46.738472 2013] [core:notice] [pid 91072] AH00094: Command line: '/Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/bin/httpd -f /Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/conf/httpd.conf'
+[Fri Jan 11 12:59:07.194541 2013] [mpm_prefork:notice] [pid 91072] AH00169: caught SIGTERM, shutting down
+[Sat Sep 28 13:15:26.683558 2013] [lbmethod_heartbeat:notice] [pid 83380] AH02282: No slotmem from mod_heartmonitor
+[Sat Sep 28 13:15:26.780407 2013] [mpm_prefork:notice] [pid 83380] AH00163: Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.9 configured -- resuming normal operations
+[Sat Sep 28 13:15:26.780458 2013] [core:notice] [pid 83380] AH00094: Command line: '/Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/bin/httpd -f /Users/ezequiel/Library/Containers/com.bitnami.wordpress/Data/app/apache2/conf/httpd.conf -D LOAD_USER_CONFIG_FILES -D FOREGROUND'
+sh: /usr/bin/sendmail: No such file or directory
+[Tue Oct 01 12:57:41.539401 2013] [mpm_prefork:notice] [pid 83380] AH00169: caught SIGTERM, shutting down
+[Tue Oct 01 21:37:54.858001 2013] [lbmethod_heartbeat:notice] [pid 1298] AH02282: No slotmem from mod_heartmonitor
+[Tue Oct 01 21:37:54.993296 2013] [mpm_prefork:notice] [pid 1298] AH00163: Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.9 configured -- resuming normal operations
+[Tue Oct 01 21:37:54.993350 2013] [core:notice] [pid 1298] AH00094: Command line: '/Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/bin/httpd -f /Users/ezequiel/Library/Containers/com.bitnami.wordpress/Data/app/apache2/conf/httpd.conf -D LOAD_USER_CONFIG_FILES -D FOREGROUND'
+[Wed Oct 02 22:06:22.756287 2013] [mpm_prefork:notice] [pid 1298] AH00169: caught SIGTERM, shutting down
+[Wed Oct 02 23:39:22.909937 2013] [lbmethod_heartbeat:notice] [pid 6754] AH02282: No slotmem from mod_heartmonitor
+[Wed Oct 02 23:39:23.041477 2013] [mpm_prefork:notice] [pid 6754] AH00163: Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.9 configured -- resuming normal operations
+[Wed Oct 02 23:39:23.041554 2013] [core:notice] [pid 6754] AH00094: Command line: '/Applications/BitNamiStackWordPress.app/Contents/Resources/app/apache2/bin/httpd -f /Users/ezequiel/Library/Containers/com.bitnami.wordpress/Data/app/apache2/conf/httpd.conf -D LOAD_USER_CONFIG_FILES -D FOREGROUND'
+[Thu Oct 03 08:43:42.524346 2013] [mpm_prefork:notice] [pid 6754] AH00169: caught SIGTERM, shutting down
